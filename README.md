@@ -1,5 +1,7 @@
 ## For Players Who Can't Aim, But Still Want to Win or Roblox Game Devs who want to make a anti-cheat on their own game
 
+[HBE-Script](https://raw.githubusercontent.com/XenonMorpheus/Universal-HitBoxExpander-HBE/refs/heads/main/main.lua)
+
 ## Universal-HitBoxExpander-HBE
 This repository contains a script designed for Roblox games that enlarges a player's hitbox to a specified size for testing purposes or anti-cheat measures. This repository contains a script designed for Roblox games that enlarges a player's hitbox to a specified size for testing purposes or anti-cheat measures. 
 
@@ -13,8 +15,10 @@ A ("Level" 7 - All Permissions) Executor is a must to avoid game anti cheat dete
 ## Features HBE-Cheat
 - Increased Hitbox Size players can hit opponents from a greater distance or at different angles, effectively bypassing the need for skillful aim. It makes it much harder for enemies to dodge attacks
 - Distorts Game Balance games become more about exploiting the cheat rather than mastering the intended mechanics of the game.
+[HBE-Script](https://raw.githubusercontent.com/XenonMorpheus/Universal-HitBoxExpander-HBE/refs/heads/main/main.lua)
 
 ## Features Anti-Cheat
 - Enlarges the player's hitbox by a configurable factor (default: 5x).
 - Anti-cheat system that flags and kicks players with unusually large hitboxes.
 - Simple and easy-to-integrate into any Roblox game.
+[Anti-Cheat](https://github.com/XenonMorpheus/Universal-HitBoxExpander-HBE/tree/main/ServerScriptService)
